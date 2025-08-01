@@ -1,0 +1,20 @@
+.App {
+  text-align: left;
+}
+
+.sidebar-transition {
+  transition: all 0.3s ease-in-out;
+}
+
+.card-hover {
+  transition: all 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.progress-bar {
+  transition: width 0.3s ease-in-out;
+}

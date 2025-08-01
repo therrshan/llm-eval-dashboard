@@ -1,0 +1,33 @@
+# Core web framework
+fastapi
+uvicorn[standard]
+
+# LLM and ML libraries
+transformers
+torch
+tokenizers
+
+# Data processing
+numpy
+pandas
+scikit-learn
+
+# HTTP and async
+httpx
+aiofiles
+python-multipart
+
+# Configuration and utilities
+pydantic
+pydantic-settings
+python-dotenv
+pyyaml
+
+# Basic testing
+nltk
+
+# System utilities
+psutil
+
+# Development tools
+pytest
